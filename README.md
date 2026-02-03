@@ -1,4 +1,4 @@
-🤖 AI Ticket Triage System (Assignment 6)
+🤖 AI Ticket Triage System
 
 This Streamlit application uses Google Gemini (via the Agno/Phidata framework) to automatically categorize customer support tickets from a CSV file based on a provided Support Policy PDF.
 
